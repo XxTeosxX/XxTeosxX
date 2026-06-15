@@ -18,7 +18,7 @@ user's identity token to a third party (**Confused Deputy** prevention, proven b
 regression test).
 
 `FastAPI` · `MCP / Streamable HTTP` · `OAuth 2.1 (RFC 9728 / 7591)` · `Redis` · `OpenTelemetry`
-— 184 tests, 90% coverage, 0 CVEs. Built with an AI-native SDLC (Claude Code + MCP, spec-driven).
+Built with an AI-native SDLC (Claude Code + MCP, spec-driven), with CI, security scanning, and a full test suite.
 
 ➡️ **[github.com/XxTeosxX/mcp-agent-gateway](https://github.com/XxTeosxX/mcp-agent-gateway)**
 
