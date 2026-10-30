@@ -60,9 +60,3 @@ Built with an AI-native SDLC (Claude Code + MCP, spec-driven), with CI, security
 📍 Fortaleza, CE — Brazil · Remote · 🇧🇷 Portuguese (native) · 🇺🇸 English (professional working)
 
 ---
-
-### 📊 Most used languages
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxTeosxX&layout=compact&langs_count=8&hide_border=true&hide=html,css&theme=buefy)
-
-<sub>Counts code across pinned + owned repos. <code>html,css</code> hidden so the bar reflects engineering work, not page markup.</sub>
