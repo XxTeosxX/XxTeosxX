@@ -55,7 +55,6 @@ Built with an AI-native SDLC (Claude Code + MCP, spec-driven), with CI, security
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/xgleisonx)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:xgleisonx@gmail.com)
 [![Microsoft Learn](https://img.shields.io/badge/MS_Learn-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/xgleisonx/)
 
 📍 Fortaleza, CE — Brazil · Remote · 🇧🇷 Portuguese (native) · 🇺🇸 English (professional working)
